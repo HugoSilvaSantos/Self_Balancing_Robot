@@ -15,4 +15,4 @@
 
 
 ### More info:
-dryetch.blogspot.coma
+dryetch.blogspot.com
